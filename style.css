@@ -1,5 +1,6 @@
 body {
 	background-image: linear-gradient(to right, #fff9f4 0%, #f9e5d0 100%);
+	min-height: 100vh;
 }
 
 a {
